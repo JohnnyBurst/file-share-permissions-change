@@ -1,5 +1,5 @@
  #Login to file server and identify shared drive to be reviewed.
- 
+ #Open Powershell ISE as administrator on that server/computer
  #Get existing file share permissions via this line
  get-acl -path d:\folder | format-list
  
