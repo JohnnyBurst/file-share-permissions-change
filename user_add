@@ -1,0 +1,1 @@
+add-adgroupmember -identity ADGROUP -Members username1,username3,username3
